@@ -1,5 +1,5 @@
 """
-Added description to practice with Git and GitHub
+Deleted message
 
 Paola Quevedo
 CS5001
