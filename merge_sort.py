@@ -1,4 +1,5 @@
 """
+Added description to practice with Git and GitHub
 
 Paola Quevedo
 CS5001
